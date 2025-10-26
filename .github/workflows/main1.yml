@@ -10,4 +10,4 @@ jobs:
 
   steps:
    - name: Greet
-     run: echo"hey"
+     run: echo "hey"
